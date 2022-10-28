@@ -9,6 +9,9 @@
 
 ## Multi-task-learning (MTL)
 
+- Overview
+	- [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098) 
+
 - Contrastive learning
 
 	-  [Personalized Inter-Task Contrastive Learning for CTR&CVR Joint Estimation](https://arxiv.org/abs/2208.13442)
@@ -16,10 +19,6 @@
 - Cascading
 
 	- [Neural Multi-Task Recommendation from Multi-Behavior Data](http://staff.ustc.edu.cn/~hexn/papers/icde19-multi-behavior-rec.pdf)
-
-- Hard paramter sharing
-
-- Soft paramter sharing
 
 - Loss
 
