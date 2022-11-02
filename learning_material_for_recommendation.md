@@ -12,6 +12,9 @@
 - Overview
 	- [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098) 
 
+	- [On the Factory Floor: ML Engineering for Industrial-Scale Ads Recommendation Models
+](https://arxiv.org/abs/2209.05310)
+
 - Contrastive learning
 
 	-  [Personalized Inter-Task Contrastive Learning for CTR&CVR Joint Estimation](https://arxiv.org/abs/2208.13442)
@@ -23,6 +26,8 @@
 - Loss
 
 	- [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/abs/1705.07115) 
+
+		- [paper reading blog](https://blog.csdn.net/u010212101/article/details/115701136) 
 
 
 
