@@ -28,7 +28,7 @@
 	- [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/abs/1705.07115) 
 
 		- [paper reading blog](https://blog.csdn.net/u010212101/article/details/115701136) 
-
+	- [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
 
 
 
