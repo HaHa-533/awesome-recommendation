@@ -30,7 +30,15 @@
 		- [paper reading blog](https://blog.csdn.net/u010212101/article/details/115701136) 
 	- [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)
 
+- Cross-Domain Recommendation
 
+	- [Cross-Domain Recommendation: Challenges, Progress, and Prospects
+](https://arxiv.org/abs/2103.01696)
+
+	- [综述-知乎](https://zhuanlan.zhihu.com/p/394556495)
+	- [Cross-domain Recommendation via Deep Domain Adaptation](https://arxiv.org/pdf/1803.03018.pdf)
+	- [Cross-Domain Recommendation: An Embedding and Mapping Approach](https://www.ijcai.org/proceedings/2017/0343.pdf)
+	- [DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns](https://www.ijcai.org/Proceedings/2019/0587.pdf)
 
 
 
