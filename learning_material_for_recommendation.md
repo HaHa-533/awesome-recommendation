@@ -34,11 +34,16 @@
 
 	- [Cross-Domain Recommendation: Challenges, Progress, and Prospects
 ](https://arxiv.org/abs/2103.01696)
-
+	- [Cross-domain recommender systems: A survey of the State of the Art](http://arantxa.ii.uam.es/~cantador%20/doc/2012/ceri12a.pdf)
 	- [综述-知乎](https://zhuanlan.zhihu.com/p/394556495)
 	- [Cross-domain Recommendation via Deep Domain Adaptation](https://arxiv.org/pdf/1803.03018.pdf)
 	- [Cross-Domain Recommendation: An Embedding and Mapping Approach](https://www.ijcai.org/proceedings/2017/0343.pdf)
 	- [DARec: Deep Domain Adaptation for Cross-Domain Recommendation via Transferring Rating Patterns](https://www.ijcai.org/Proceedings/2019/0587.pdf)
+	- [KEEP: An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](https://arxiv.org/abs/2208.10174)
+	- [ATLRec: An Attentional Adversarial Transfer Learning Network for Cross-Domain Recommendation](https://jcst.ict.ac.cn/fileup/1000-9000/PDF/2020-4-6-0314.pdf)
+	- [Cross-domain Recommendation via Deep Domain Adaptation](https://arxiv.org/pdf/1803.03018.pdf)
+	- [RecSys-DAN: Discriminative Adversarial Networks for Cross-Domain Recommender Systems](https://arxiv.org/abs/1903.10794)
+
 
 
 
