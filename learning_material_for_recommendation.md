@@ -42,7 +42,7 @@
 	- [KEEP: An Industrial Pre-Training Framework for Online Recommendation via Knowledge Extraction and Plugging](https://arxiv.org/abs/2208.10174)
 	- [ATLRec: An Attentional Adversarial Transfer Learning Network for Cross-Domain Recommendation](https://jcst.ict.ac.cn/fileup/1000-9000/PDF/2020-4-6-0314.pdf)
 	- [Cross-domain Recommendation via Deep Domain Adaptation](https://arxiv.org/pdf/1803.03018.pdf)
-	- [RecSys-DAN: Discriminative Adversarial Networks for Cross-Domain Recommender Systems](https://arxiv.org/abs/1903.10794)
+	- [RecSys-DAN: Discriminative Adversarial Networks for Cross-Domain Recommender Systems](https://arxiv.org/abs/1903.10794)	- [CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network](https://arxiv.org/pdf/2005.10549.pdf)
 
 
 
